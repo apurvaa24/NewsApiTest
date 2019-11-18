@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="row_schedule" type="XML" />
+      <mapping pattern="view_toolbar" type="XML" />
+      <mapping pattern="row_engineer" type="XML" />
+    </extensionMap>
+  </component>
+</application>
