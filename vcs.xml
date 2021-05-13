@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/apurvaa24/NewsApiTest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.dxc.com/omni-daiichi/mo-android-agency-app/tree/MultiRider/OMINIAgencyApp/app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
